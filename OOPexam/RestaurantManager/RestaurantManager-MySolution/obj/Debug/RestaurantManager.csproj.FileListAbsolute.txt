@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\OOPexam\RestaurantManager\RestaurantManager-MySolution\bin\Debug\RestaurantManager.exe
+C:\Users\Elena\Downloads\OOPexam\RestaurantManager\RestaurantManager-MySolution\bin\Debug\RestaurantManager.pdb
+C:\Users\Elena\Downloads\OOPexam\RestaurantManager\RestaurantManager-MySolution\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\OOPexam\RestaurantManager\RestaurantManager-MySolution\obj\Debug\RestaurantManager.exe
+C:\Users\Elena\Downloads\OOPexam\RestaurantManager\RestaurantManager-MySolution\obj\Debug\RestaurantManager.pdb

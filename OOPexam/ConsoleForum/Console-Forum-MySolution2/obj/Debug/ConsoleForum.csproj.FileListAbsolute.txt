@@ -1,0 +1,7 @@
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe.config
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution2\bin\Debug\ConsoleForum.exe.config
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution2\bin\Debug\ConsoleForum.exe
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution2\bin\Debug\ConsoleForum.pdb
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution2\obj\Debug\ConsoleForum.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution2\obj\Debug\ConsoleForum.exe
+C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution2\obj\Debug\ConsoleForum.pdb

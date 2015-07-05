@@ -1,0 +1,2 @@
+C:\Users\Elena\Downloads\OOPexam\OOP-Retake-Exam-1-June-2015\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\Elena\Downloads\OOPexam\Mass Effect\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config

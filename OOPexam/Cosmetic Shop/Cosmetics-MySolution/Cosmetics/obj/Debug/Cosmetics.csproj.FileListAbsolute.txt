@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\OOPexam\Cosmetic Shop\Cosmetics-MySolution\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\Elena\Downloads\OOPexam\Cosmetic Shop\Cosmetics-MySolution\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\OOPexam\Cosmetic Shop\Cosmetics-MySolution\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\Elena\Downloads\OOPexam\Cosmetic Shop\Cosmetics-MySolution\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\Elena\Downloads\OOPexam\Cosmetic Shop\Cosmetics-MySolution\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\Elena\Downloads\OOPexam\Cosmetic Shop\Cosmetics-MySolution\Cosmetics\obj\Debug\Cosmetics.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\OOPexam\ArmyOfCreatures\Army of Creatures - Skeleton\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.exe.config
+C:\Users\Elena\Downloads\OOPexam\ArmyOfCreatures\Army of Creatures - Skeleton\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.exe
+C:\Users\Elena\Downloads\OOPexam\ArmyOfCreatures\Army of Creatures - Skeleton\ArmyOfCreatures\bin\Debug\ArmyOfCreatures.pdb
+C:\Users\Elena\Downloads\OOPexam\ArmyOfCreatures\Army of Creatures - Skeleton\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\OOPexam\ArmyOfCreatures\Army of Creatures - Skeleton\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.exe
+C:\Users\Elena\Downloads\OOPexam\ArmyOfCreatures\Army of Creatures - Skeleton\ArmyOfCreatures\obj\Debug\ArmyOfCreatures.pdb

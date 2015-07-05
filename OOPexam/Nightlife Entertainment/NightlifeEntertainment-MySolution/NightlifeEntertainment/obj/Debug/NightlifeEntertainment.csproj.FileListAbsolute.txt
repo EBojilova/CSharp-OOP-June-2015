@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\OOPexam\Nightlife Entertainment\NightlifeEntertainment-MySolution\NightlifeEntertainment\bin\Debug\NightlifeEntertainment.exe.config
+C:\Users\Elena\Downloads\OOPexam\Nightlife Entertainment\NightlifeEntertainment-MySolution\NightlifeEntertainment\bin\Debug\NightlifeEntertainment.exe
+C:\Users\Elena\Downloads\OOPexam\Nightlife Entertainment\NightlifeEntertainment-MySolution\NightlifeEntertainment\bin\Debug\NightlifeEntertainment.pdb
+C:\Users\Elena\Downloads\OOPexam\Nightlife Entertainment\NightlifeEntertainment-MySolution\NightlifeEntertainment\obj\Debug\NightlifeEntertainment.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\OOPexam\Nightlife Entertainment\NightlifeEntertainment-MySolution\NightlifeEntertainment\obj\Debug\NightlifeEntertainment.exe
+C:\Users\Elena\Downloads\OOPexam\Nightlife Entertainment\NightlifeEntertainment-MySolution\NightlifeEntertainment\obj\Debug\NightlifeEntertainment.pdb
