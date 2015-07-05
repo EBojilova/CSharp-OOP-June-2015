@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Attributes\bin\Debug\Attributes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Attributes\obj\Debug\6. Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Attributes\obj\Debug\Attributes.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Attributes\obj\Debug\Attributes.pdb

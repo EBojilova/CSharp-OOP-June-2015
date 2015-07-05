@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Custom-Attributes\bin\Debug\_1.CustomAttributesDemo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Custom-Attributes\bin\Debug\_1.CustomAttributesDemo.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Custom-Attributes\obj\x86\Debug\7. Custom Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Custom-Attributes\obj\x86\Debug\_1.CustomAttributesDemo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Custom-Attributes\obj\x86\Debug\_1.CustomAttributesDemo.pdb

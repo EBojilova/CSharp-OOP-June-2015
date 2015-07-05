@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Access-Modifiers\bin\Debug\TransitiveInheritance.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Access-Modifiers\bin\Debug\TransitiveInheritance.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Access-Modifiers\obj\x86\Debug\2. Access-Modifiers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Access-Modifiers\obj\x86\Debug\TransitiveInheritance.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Access-Modifiers\obj\x86\Debug\TransitiveInheritance.pdb

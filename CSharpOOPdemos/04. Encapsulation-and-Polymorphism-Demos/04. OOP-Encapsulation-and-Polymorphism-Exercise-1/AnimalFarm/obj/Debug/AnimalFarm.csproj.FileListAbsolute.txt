@@ -1,0 +1,7 @@
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\04. Encapsulation-and-Polymorphism-Demos\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\04. Encapsulation-and-Polymorphism-Demos\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\04. Encapsulation-and-Polymorphism-Demos\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\04. Encapsulation-and-Polymorphism-Demos\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\04. Encapsulation-and-Polymorphism-Demos\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\04. Encapsulation-and-Polymorphism-Demos\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\obj\Debug\AnimalFarm.pdb

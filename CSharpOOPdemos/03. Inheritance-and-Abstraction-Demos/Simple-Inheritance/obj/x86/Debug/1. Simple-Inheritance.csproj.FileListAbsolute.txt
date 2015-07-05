@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Simple-Inheritance\bin\Debug\Simple Inheritance.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Simple-Inheritance\bin\Debug\Simple Inheritance.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Simple-Inheritance\obj\x86\Debug\1. Simple-Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Simple-Inheritance\obj\x86\Debug\Simple Inheritance.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Simple-Inheritance\obj\x86\Debug\Simple Inheritance.pdb

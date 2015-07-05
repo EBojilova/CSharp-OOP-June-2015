@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\AnonymousMethods\bin\Debug\_4.AnonymousMethods.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\AnonymousMethods\bin\Debug\_4.AnonymousMethods.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\AnonymousMethods\obj\x86\Debug\4. Anonymous-Methods.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\AnonymousMethods\obj\x86\Debug\_4.AnonymousMethods.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\AnonymousMethods\obj\x86\Debug\_4.AnonymousMethods.pdb

@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.pdb

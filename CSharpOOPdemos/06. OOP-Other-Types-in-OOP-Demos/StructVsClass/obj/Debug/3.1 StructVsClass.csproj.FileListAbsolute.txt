@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\bin\Debug\StructVsClass.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\bin\Debug\StructVsClass.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\bin\Debug\StructVsClass.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\obj\Debug\3.1 StructVsClass.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\obj\Debug\StructVsClass.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\StructVsClass\obj\Debug\StructVsClass.pdb

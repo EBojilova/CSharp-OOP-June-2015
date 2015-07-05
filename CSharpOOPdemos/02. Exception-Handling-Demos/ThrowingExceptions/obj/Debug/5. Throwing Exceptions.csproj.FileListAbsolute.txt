@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ThrowingExceptions\bin\Debug\ThrowingExceptions.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ThrowingExceptions\obj\Debug\5. Throwing Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\ThrowingExceptions\obj\Debug\ThrowingExceptions.pdb

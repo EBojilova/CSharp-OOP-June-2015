@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Overloading-Operators\bin\Debug\Operators.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Overloading-Operators\bin\Debug\Operators.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Overloading-Operators\obj\x86\Debug\Operators.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Overloading-Operators\obj\x86\Debug\Operators.pdb

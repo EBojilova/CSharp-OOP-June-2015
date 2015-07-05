@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Object-Cloning\bin\Debug\_3.ObjectCloning.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Object-Cloning\bin\Debug\_3.ObjectCloning.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Object-Cloning\obj\x86\Debug\_3.ObjectCloning.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Object-Cloning\obj\x86\Debug\_3.ObjectCloning.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\CofeeSize\bin\Debug\CofeeSize.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\CofeeSize\bin\Debug\CofeeSize.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\CofeeSize\obj\Debug\2. CofeeSize.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\CofeeSize\obj\Debug\CofeeSize.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\CofeeSize\obj\Debug\CofeeSize.pdb

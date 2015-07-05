@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\Keep-the-Object-State\bin\Debug\Keep-the-Object-State.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\Keep-the-Object-State\bin\Debug\Keep-the-Object-State.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\Keep-the-Object-State\obj\x86\Debug\6. Protect the Object State.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\Keep-the-Object-State\obj\x86\Debug\Keep-the-Object-State.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\Keep-the-Object-State\obj\x86\Debug\Keep-the-Object-State.pdb

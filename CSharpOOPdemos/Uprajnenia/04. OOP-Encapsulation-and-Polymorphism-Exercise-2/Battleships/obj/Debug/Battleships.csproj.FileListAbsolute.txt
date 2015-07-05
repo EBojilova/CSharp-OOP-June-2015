@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.exe.config
+C:\Users\Elena\Downloads\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.exe
+C:\Users\Elena\Downloads\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.pdb
+C:\Users\Elena\Downloads\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\obj\Debug\Battleships.exe
+C:\Users\Elena\Downloads\04. OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\obj\Debug\Battleships.pdb

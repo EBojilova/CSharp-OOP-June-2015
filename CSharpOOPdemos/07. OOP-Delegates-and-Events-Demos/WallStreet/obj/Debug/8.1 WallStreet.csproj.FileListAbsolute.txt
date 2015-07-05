@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\WallStreet\bin\Debug\WallStreet.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\WallStreet\bin\Debug\WallStreet.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\WallStreet\bin\Debug\WallStreet.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\WallStreet\obj\Debug\8.1 WallStreet.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\WallStreet\obj\Debug\WallStreet.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\WallStreet\obj\Debug\WallStreet.pdb

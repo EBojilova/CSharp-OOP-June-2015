@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Structures\bin\Debug\Structures.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Structures\bin\Debug\Structures.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Structures\obj\x86\Debug\Structures.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\06. OOP-Other-Types-in-OOP-Demos\Structures\obj\x86\Debug\Structures.pdb

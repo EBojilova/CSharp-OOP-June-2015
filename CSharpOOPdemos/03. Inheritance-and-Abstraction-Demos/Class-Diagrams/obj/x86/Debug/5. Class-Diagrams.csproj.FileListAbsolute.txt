@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Class-Diagrams\obj\x86\Debug\5. Class-Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Class-Diagrams\bin\Debug\Class-Diagrams.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Class-Diagrams\bin\Debug\Class-Diagrams.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Class-Diagrams\obj\x86\Debug\Class-Diagrams.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Class-Diagrams\obj\x86\Debug\Class-Diagrams.pdb

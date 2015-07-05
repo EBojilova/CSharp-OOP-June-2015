@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\Read-Text-File\bin\Debug\Read-Text-File.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\Read-Text-File\bin\Debug\Read-Text-File.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\Read-Text-File\obj\Debug\7. Read-Text-File.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\Read-Text-File\obj\Debug\Read-Text-File.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\Read-Text-File\obj\Debug\Read-Text-File.pdb

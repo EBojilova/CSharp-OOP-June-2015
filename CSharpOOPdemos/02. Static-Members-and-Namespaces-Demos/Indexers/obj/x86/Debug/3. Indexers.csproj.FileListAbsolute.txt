@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Indexers\bin\Debug\Indexers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Indexers\obj\x86\Debug\3. Indexers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Indexers\obj\x86\Debug\Indexers.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Indexers\obj\x86\Debug\Indexers.pdb

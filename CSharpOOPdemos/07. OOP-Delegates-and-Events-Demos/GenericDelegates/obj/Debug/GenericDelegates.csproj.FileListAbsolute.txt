@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\GenericDelegates\bin\Debug\GenericDelegates.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\GenericDelegates\bin\Debug\GenericDelegates.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\GenericDelegates\bin\Debug\GenericDelegates.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\GenericDelegates\obj\Debug\GenericDelegates.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\GenericDelegates\obj\Debug\GenericDelegates.pdb

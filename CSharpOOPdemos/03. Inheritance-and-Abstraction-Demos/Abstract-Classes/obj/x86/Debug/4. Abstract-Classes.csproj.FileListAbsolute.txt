@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Abstract-Classes\bin\Debug\_4.AbstractClasses.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Abstract-Classes\bin\Debug\_4.AbstractClasses.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Abstract-Classes\obj\x86\Debug\4. Abstract-Classes.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Abstract-Classes\obj\x86\Debug\_4.AbstractClasses.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Abstract-Classes\obj\x86\Debug\_4.AbstractClasses.pdb

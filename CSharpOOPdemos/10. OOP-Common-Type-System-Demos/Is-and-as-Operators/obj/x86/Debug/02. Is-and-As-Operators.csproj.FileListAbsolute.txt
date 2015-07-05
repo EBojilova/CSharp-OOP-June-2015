@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Is-and-as-Operators\bin\Debug\_2.IsAndAsOperators.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Is-and-as-Operators\bin\Debug\_2.IsAndAsOperators.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Is-and-as-Operators\obj\x86\Debug\_2.IsAndAsOperators.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Is-and-as-Operators\obj\x86\Debug\_2.IsAndAsOperators.pdb

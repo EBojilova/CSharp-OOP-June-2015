@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\CustomExceptions\obj\Debug\CustomExceptions.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\CustomExceptions\obj\Debug\8. CustomExceptions.csprojResolveAssemblyReference.cache

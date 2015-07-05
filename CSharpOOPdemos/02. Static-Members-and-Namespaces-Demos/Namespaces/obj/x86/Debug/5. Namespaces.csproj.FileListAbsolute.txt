@@ -1,0 +1,8 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\obj\x86\Debug\5. Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\obj\x86\Debug\SoftUni.UI.ProfessorAdminForm.resources
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\obj\x86\Debug\SoftUni.UI.StudentAdminForm.resources
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\obj\x86\Debug\5. Namespaces.csproj.GenerateResource.Cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\obj\x86\Debug\Namespaces.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Static-Members-and-Namespaces-Demos\Namespaces\obj\x86\Debug\Namespaces.pdb

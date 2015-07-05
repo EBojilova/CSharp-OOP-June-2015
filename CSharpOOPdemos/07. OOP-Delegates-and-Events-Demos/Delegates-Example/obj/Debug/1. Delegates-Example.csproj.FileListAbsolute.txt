@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\Delegates-Example\bin\Debug\Delegates-Example.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\Delegates-Example\bin\Debug\Delegates-Example.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\Delegates-Example\obj\Debug\1. Delegates-Example.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\Delegates-Example\obj\Debug\Delegates-Example.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\Delegates-Example\obj\Debug\Delegates-Example.pdb

@@ -1,0 +1,4 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\TryFinally\bin\Debug\TryFinally.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\TryFinally\bin\Debug\TryFinally.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\TryFinally\obj\Debug\TryFinally.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\TryFinally\obj\Debug\TryFinally.pdb

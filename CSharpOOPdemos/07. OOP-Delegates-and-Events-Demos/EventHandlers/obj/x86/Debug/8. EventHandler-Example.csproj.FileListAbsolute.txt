@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\EventHandlers\bin\Debug\_7.EventHandlerDemo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\EventHandlers\bin\Debug\_7.EventHandlerDemo.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\EventHandlers\obj\x86\Debug\8. EventHandler-Example.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\EventHandlers\obj\x86\Debug\_7.EventHandlerDemo.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\07. OOP-Delegates-and-Events-Demos\EventHandlers\obj\x86\Debug\_7.EventHandlerDemo.pdb

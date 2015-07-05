@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Passing-Ref-Parameters\bin\Debug\PassingRefParameters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Passing-Ref-Parameters\bin\Debug\PassingRefParameters.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Passing-Ref-Parameters\obj\Debug\09. Passing-Ref-Parameters.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Passing-Ref-Parameters\obj\Debug\PassingRefParameters.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Passing-Ref-Parameters\obj\Debug\PassingRefParameters.pdb

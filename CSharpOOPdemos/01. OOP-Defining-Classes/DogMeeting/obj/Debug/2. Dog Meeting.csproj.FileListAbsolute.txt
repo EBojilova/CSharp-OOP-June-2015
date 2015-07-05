@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\DogMeeting\bin\Debug\DogMeeting.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\DogMeeting\bin\Debug\DogMeeting.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\DogMeeting\obj\Debug\2. Dog Meeting.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\DogMeeting\obj\Debug\DogMeeting.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\01. OOP-Defining-Classes\DogMeeting\obj\Debug\DogMeeting.pdb

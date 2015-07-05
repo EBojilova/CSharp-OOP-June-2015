@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Interfaces-and-Implementation\bin\Debug\Interfaces.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Interfaces-and-Implementation\bin\Debug\Interfaces.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Interfaces-and-Implementation\obj\x86\Debug\3. Interfaces-and-Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Interfaces-and-Implementation\obj\x86\Debug\Interfaces.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\03. Inheritance-and-Abstraction-Demos\Interfaces-and-Implementation\obj\x86\Debug\Interfaces.pdb

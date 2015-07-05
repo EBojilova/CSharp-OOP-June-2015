@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\StackTrace\bin\Debug\StackTrace.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\StackTrace\bin\Debug\StackTrace.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\StackTrace\bin\Debug\StackTrace.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\StackTrace\obj\Debug\StackTrace.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\StackTrace\obj\Debug\StackTrace.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\02. Exception-Handling-Demos\StackTrace\obj\Debug\4. StackTrace.csprojResolveAssemblyReference.cache

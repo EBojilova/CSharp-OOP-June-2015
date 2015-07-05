@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Value-And-Reference-Types\bin\Debug\Value-And-Reference-Types.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Value-And-Reference-Types\bin\Debug\Value-And-Reference-Types.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Value-And-Reference-Types\obj\Debug\06. Value-and-Reference-Types.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Value-And-Reference-Types\obj\Debug\Value-And-Reference-Types.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOPdemos\10. OOP-Common-Type-System-Demos\Value-And-Reference-Types\obj\Debug\Value-And-Reference-Types.pdb
