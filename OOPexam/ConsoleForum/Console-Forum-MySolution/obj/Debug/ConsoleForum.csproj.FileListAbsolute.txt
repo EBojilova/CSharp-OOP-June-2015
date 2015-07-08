@@ -11,3 +11,6 @@ C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-Skeleton\obj\Debug\C
 C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution\bin\Debug\ConsoleForum.exe.config
 C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution\obj\Debug\ConsoleForum.exe
 C:\Users\Elena\Downloads\OOPexam\ConsoleForum\Console-Forum-MySolution\obj\Debug\ConsoleForum.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOP\OOPexam\ConsoleForum\Console-Forum-MySolution\bin\Debug\ConsoleForum.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOP\OOPexam\ConsoleForum\Console-Forum-MySolution\obj\Debug\ConsoleForum.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOP\OOPexam\ConsoleForum\Console-Forum-MySolution\obj\Debug\ConsoleForum.pdb

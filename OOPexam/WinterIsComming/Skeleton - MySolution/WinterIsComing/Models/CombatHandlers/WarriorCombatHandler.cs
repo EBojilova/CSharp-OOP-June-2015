@@ -18,13 +18,7 @@
             ////- picks the first target in range with least health points and casts Cleave. 
             ////  If there are several targets with equal health points, the one with alphabetically first name is picked.
             this.ValidateTargets(candidateTargets);
-            var nextTarget = candidateTargets.OrderBy(t => t.HealthPoints).ThenBy(t => t.Name).FirstOrDefault();
-            if (nextTarget == null)
-            {
-                return new List<IUnit>();
-            }
-
-            return new List<IUnit> { nextTarget };
+            return  candidateTargets.OrderBy(t => t.HealthPoints).ThenBy(t => t.Name).Take(1).ToList();
         }
 
         public override ISpell GenerateAttack()

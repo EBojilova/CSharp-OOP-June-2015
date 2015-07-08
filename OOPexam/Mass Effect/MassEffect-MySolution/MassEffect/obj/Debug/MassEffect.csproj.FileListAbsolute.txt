@@ -7,3 +7,6 @@ C:\Users\Elena\Downloads\OOPexam\OOP-Retake-Exam-1-June-2015\MassEffect-Solution
 C:\Users\Elena\Downloads\OOPexam\Mass Effect\MassEffect-MySolution\MassEffect\bin\Debug\MassEffect.exe.config
 C:\Users\Elena\Downloads\OOPexam\Mass Effect\MassEffect-MySolution\MassEffect\obj\Debug\MassEffect.exe
 C:\Users\Elena\Downloads\OOPexam\Mass Effect\MassEffect-MySolution\MassEffect\obj\Debug\MassEffect.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOP\OOPexam\Mass Effect\MassEffect-MySolution\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOP\OOPexam\Mass Effect\MassEffect-MySolution\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\Elena\Documents\Visual Studio 2013\CSharpOOP\OOPexam\Mass Effect\MassEffect-MySolution\MassEffect\obj\Debug\MassEffect.pdb

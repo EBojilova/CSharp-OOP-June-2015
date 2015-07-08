@@ -20,14 +20,7 @@
             ////-picks 3 targets with most health points. 
             //// If there are several targets with equal health points, picks those with alphabetically first name. 
             this.ValidateTargets(candidateTargets);
-            var nextTargets =
-                candidateTargets.OrderByDescending(t => t.HealthPoints).ThenBy(t => t.Name).Take(3).ToList();
-
-            ////if (nextTargets.Count < 3)
-            ////{
-            ////    throw new GameException("Target list should contain 3 targets");
-            ////}
-            return nextTargets;
+            return candidateTargets.OrderByDescending(t => t.HealthPoints).ThenBy(t => t.Name).Take(3).ToList();
         }
 
         public override ISpell GenerateAttack()

@@ -18,13 +18,12 @@
             ////- casts Stomp on all units in range.
             ////  If his health is less or equal to 150, Stomp is cast only on the first unit in range
             this.ValidateTargets(candidateTargets);
-            var nextTargets = candidateTargets.ToList();
             if (this.Unit.HealthPoints <= 150)
             {
-                nextTargets = new List<IUnit> { candidateTargets.FirstOrDefault() };
+                return candidateTargets.Take(1).ToList();
             }
 
-            return nextTargets;
+            return candidateTargets.ToList();
         }
 
         public override ISpell GenerateAttack()
@@ -32,10 +31,9 @@
             /////Each time he casts Stomp, the Ice Giant's attack points are increased by 5. 
             /////Stomp damage: Equal to the Ice Giant's attack points.
             var spell = new Stomp(this.Unit.AttackPoints);
-            this.Unit.AttackPoints += 5;
             this.ValidateEnergyPoints(this.Unit, spell);
+            this.Unit.AttackPoints += 5;
             this.Unit.EnergyPoints -= spell.EnergyCost;
-
             return spell;
         }
     }
